@@ -1,1 +1,1 @@
-{"total":0,"items":[]}
+{"total":2,"items":[{"uid":"0cf6e37b4f4e971b7ce12a39d55dec74","name":"UI element or navigation","statistic":{"failed":11,"broken":0,"skipped":0,"passed":0,"unknown":0,"total":11}},{"uid":"3ed3c6d2f2ab0f87c0eba988f55bdc0a","name":"Other assertion failures","statistic":{"failed":1,"broken":0,"skipped":0,"passed":0,"unknown":0,"total":1}}]}
