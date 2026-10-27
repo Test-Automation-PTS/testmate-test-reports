@@ -1,0 +1,1 @@
+[{"uid":"bc80f569745d2d86","name":"User Can Log In","time":{"start":1793132141253,"stop":1793132147727,"duration":6474},"status":"passed","severity":"normal"},{"uid":"b781ac00b1635f4f","name":"Anonymous User Sees Login Form","time":{"start":1793132141253,"stop":1793132145213,"duration":3960},"status":"passed","severity":"normal"}]
