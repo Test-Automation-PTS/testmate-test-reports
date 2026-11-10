@@ -1,1 +1,1 @@
-{"reportName":"Playbot report · demo-dev · run #111","testRuns":[],"statistic":{"failed":0,"broken":0,"skipped":0,"passed":26,"unknown":0,"total":26},"time":{"start":1794310605729,"stop":1794310794355,"duration":188626,"minDuration":2571,"maxDuration":77406,"sumDuration":664419}}
+{"reportName":"Playbot report · demo-dev · run #220","testRuns":[],"statistic":{"failed":1,"broken":0,"skipped":0,"passed":27,"unknown":0,"total":28},"time":{"start":1794329594794,"stop":1794330060528,"duration":465734,"minDuration":2717,"maxDuration":346705,"sumDuration":1021319}}
