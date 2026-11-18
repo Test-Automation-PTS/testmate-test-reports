@@ -1,7 +1,7 @@
 {
-  "run_key": "44144942391-1",
-  "run_number": 127,
-  "commit": "c691077982bf740fc7654875efbbd0eac057fd86",
-  "source_repository": "Test-Automation-PTS/testmate-test",
+  "run_key": "44262260048-1",
+  "run_number": 7,
+  "commit": "7c4b730839cc1366e947adce5e71b564fc90ed92",
+  "source_repository": "Test-Automation-PTS/azure-deploy",
   "environment": "demo-test"
 }
