@@ -1,7 +1,7 @@
 {
-  "run_key": "44295604715-1",
-  "run_number": 17,
-  "commit": "f3400583f35c5aa3fb981a676fd2f1e41b24c59e",
+  "run_key": "44316269013-1",
+  "run_number": 22,
+  "commit": "0598fcadeabd8fc85507c9d517892e2e53db17e1",
   "source_repository": "Test-Automation-PTS/azure-deploy",
   "environment": "demo-dev"
 }
