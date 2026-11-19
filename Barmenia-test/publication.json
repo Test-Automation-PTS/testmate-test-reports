@@ -1,7 +1,7 @@
 {
-  "run_key": "44311098589-1",
-  "run_number": 21,
-  "commit": "0598fcadeabd8fc85507c9d517892e2e53db17e1",
-  "source_repository": "Test-Automation-PTS/azure-deploy",
+  "run_key": "44497217833-1",
+  "run_number": 7,
+  "commit": "c6965c3c83292941f844204bd32d6277b45035bd",
+  "source_repository": "Test-Automation-PTS/testmate-test",
   "environment": "Barmenia-test"
 }
