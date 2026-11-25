@@ -1,1 +1,1 @@
-{"reportName":"Playbot report · Barmenia-test · run #17","testRuns":[],"statistic":{"failed":0,"broken":0,"skipped":3,"passed":31,"unknown":0,"total":34},"time":{"start":1795116526740,"stop":1795116736085,"duration":209345,"minDuration":2704,"maxDuration":107460,"sumDuration":742702}}
+{"reportName":"Playbot report · Barmenia-test · run #39","testRuns":[],"statistic":{"failed":4,"broken":0,"skipped":0,"passed":30,"unknown":0,"total":34},"time":{"start":1795591329928,"stop":1795591540707,"duration":210779,"minDuration":2823,"maxDuration":87839,"sumDuration":753376}}
