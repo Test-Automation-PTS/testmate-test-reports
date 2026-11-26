@@ -1,3 +1,3 @@
 "DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
-"","3540","Anonymous User Sees Login Form","Tests","2026-11-26","passed","2026-11-26","Login","Smoke","",""
-"","6232","User Can Log In","Tests","2026-11-26","passed","2026-11-26","Login","Smoke","",""
+"","2421","Anonymous User Sees Login Form","Tests","2026-11-26","passed","2026-11-26","Login","Smoke","",""
+"","4907","User Can Log In","Tests","2026-11-26","passed","2026-11-26","Login","Smoke","",""
